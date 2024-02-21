@@ -29,7 +29,6 @@ drawable backspace
 drawable ic_backspace_svgrepo_com
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-drawable icons
 drawable open_bracket
 drawable round_button
 drawable round_button_second

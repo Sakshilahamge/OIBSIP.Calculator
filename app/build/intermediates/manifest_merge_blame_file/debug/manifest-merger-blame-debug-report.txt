@@ -27,12 +27,12 @@
 19-->[androidx.core:core:1.9.0] C:\Users\SARANSH\.gradle\caches\transforms-3\a309491863f1cad1388d82071cb60f8c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
-22        android:icon="@drawable/icons"
-22-->C:\new project\CalculatorAndroid-master\app\src\main\AndroidManifest.xml:7:9-39
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\new project\CalculatorAndroid-master\app\src\main\AndroidManifest.xml:8:9-43
 23        android:label="@string/app_name"
-23-->C:\new project\CalculatorAndroid-master\app\src\main\AndroidManifest.xml:8:9-41
-24        android:roundIcon="@drawable/icons"
-24-->C:\new project\CalculatorAndroid-master\app\src\main\AndroidManifest.xml:9:9-44
+23-->C:\new project\CalculatorAndroid-master\app\src\main\AndroidManifest.xml:7:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\new project\CalculatorAndroid-master\app\src\main\AndroidManifest.xml:9:9-54
 25        android:supportsRtl="true"
 25-->C:\new project\CalculatorAndroid-master\app\src\main\AndroidManifest.xml:10:9-35
 26        android:testOnly="true"

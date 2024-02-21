@@ -25,9 +25,9 @@
     <color name="transparency_orange">#33FF6E22</color>
     <color name="transparency_silver">#807A7979</color>
     <color name="white">#FFF</color>
-    <string name="app_name">Calculator</string>
-    <string name="switch_theme">Change Theme</string>
-    <string name="textNotificationAboutClipboard">The result is copied to the clipboard</string>
+    <string name="app_name">Калькулятор</string>
+    <string name="switch_theme">Сменить тему</string>
+    <string name="textNotificationAboutClipboard">Результат скопирован в буфер обмена</string>
     <style name="CalculatorButton" parent="Widget.AppCompat.Button">
         <item name="android:background">?android:attr/selectableItemBackgroundBorderless</item>
         <item name="android:textSize">30sp</item>
