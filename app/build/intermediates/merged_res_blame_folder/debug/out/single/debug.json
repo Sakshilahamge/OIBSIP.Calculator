@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-mdpi_backspace.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-mdpi\\backspace.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable_ic_backspace_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\drawable\\ic_backspace_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-xxxhdpi_backspace.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-xxxhdpi\\backspace.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-anydpi-v24_open_bracket.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-anydpi-v24\\open_bracket.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-ldpi_open_bracket.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-ldpi\\open_bracket.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable_theme_switcher_dark.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\drawable\\theme_switcher_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable_round_button_second.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\drawable\\round_button_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable_ios_11_calculator_icon___apple_calculator_icon_ios_11___transparent_png_download___1601x1600___free_download_on_vippng.jpg.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\drawable\\ios_11_calculator_icon___apple_calculator_icon_ios_11___transparent_png_download___1601x1600___free_download_on_vippng.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-anydpi-v24_backspace.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-anydpi-v24\\backspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-xxxhdpi_open_bracket.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-xxxhdpi\\open_bracket.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.bnnq.calculator.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "me.bnnq.calculator.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-xxhdpi_open_bracket.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-xxhdpi\\open_bracket.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-ldpi_backspace.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-ldpi\\backspace.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-mdpi_open_bracket.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-mdpi\\open_bracket.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-xhdpi_backspace.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-xhdpi\\backspace.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-hdpi_backspace.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-hdpi\\backspace.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-hdpi_open_bracket.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-hdpi\\open_bracket.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-xxhdpi_backspace.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-xxhdpi\\backspace.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\layout-sw600dp_activity_main.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable-xhdpi_open_bracket.png.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-pngs-24:\\drawable-xhdpi\\open_bracket.png"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable_theme_switcher_light.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\drawable\\theme_switcher_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\drawable_icons.jpg.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\drawable\\icons.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SARANSH\\.gradle\\daemon\\8.2\\me.bnnq.calculator.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

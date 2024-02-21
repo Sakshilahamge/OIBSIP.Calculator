@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "me.bnnq.calculator.app-mergeDebugResources-26:/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\new project\\CalculatorAndroid-master\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "1,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "16,150,64",
+                        "endColumns": "47,53,85",
+                        "endOffsets": "59,199,145"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,103,157",
+                        "endColumns": "47,53,85",
+                        "endOffsets": "98,152,238"
+                    }
+                }
+            ]
+        }
+    ]
+}
